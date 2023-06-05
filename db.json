@@ -1,0 +1,30 @@
+[
+    {
+    
+      "nom": "lalaoui",
+      "prenom": "houda",
+      "tel": "0665765456"
+    
+    },
+      {
+        "nom": "ben",
+        "prenom": "said",
+        "tel": "0665767766"
+    
+      }
+      ,
+      {
+        "nom": "moutaouakkil",
+        "prenom": "mariem",
+        "tel": "0665765566"
+    
+      }
+      ,
+      {
+        "nom": "ahmed",
+        "prenom": "salim",
+        "tel": "0678654456"
+    
+      }
+      
+      ]
